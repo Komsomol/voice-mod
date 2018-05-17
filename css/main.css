@@ -1,0 +1,16 @@
+.mouth {
+	height: 20px;
+	width: 100vw;
+	background-color: red;
+}
+
+.vol {
+	height: 0px;
+	width: 100vw;
+	background-color: blue;
+}
+
+button {
+	height: 20vh;
+	width: 100vw;
+}
